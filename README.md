@@ -1,5 +1,6 @@
 # Polka-Dot-Number-Matching-Card-Game-
-•	Educational Mobile Game for Kids
+
+•	This is a 2-D educational mobile game designed for Kids with API 29
 
 •	Has three levels: Easy, Moderate, and Difficult
 
