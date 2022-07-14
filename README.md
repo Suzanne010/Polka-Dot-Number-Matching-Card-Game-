@@ -1,12 +1,25 @@
-# Polka-Dot-Number-Matching-Card-Game-
-•	Educational Mobile Game for Preschoolers 
+## "Matching Puzzle Game" Android App
+***
+### Overview
 
-•	Has three levels: Easy, Moderate, and Difficult
+This is a 2-D matching game designed for kids with API 29. It has cute UI design and 3 simple levels for children to play with. Score of each level can be calculated at the end of each level. You can run this App on any android phone and download the source code to work on it using Android studio.
 
-•	There are 12 cards in the easy level, 16 cards in the medium level, and 20 cards in the difficult level.
+> * [View a short video of this App on YouTube](https://youtu.be/kHon3w3cOEI)<br>
+> * Screenshot<br>
+> <img src="https://github.com/ZhangZiboMono/AndroidApp-MatchingPuzzleGame/blob/master/readme-gif.gif" width="420px" alt="demo gif">
 
-•	The Fisher-Yates Shuffle Algorithm was used.
+ ***
+ ### Installation
 
-•	Java was used as a programming Language 
+* Download this repository.
+* Drag the folder to your Android Studio.
 
-•	Android Studio as the IDE
+
+***
+### Contact & Feedback
+
+* If you found some bugs, I would appreciate you leaving the [Issue Here](https://github.com/ZhangZiboMono/AndroidApp-CalculatorZ/issues/new).
+* My E-mail: zibo.zhang.byron@gmail.com
+
+***
+#### Thanks for viewing this. I hope you enjoy it.
